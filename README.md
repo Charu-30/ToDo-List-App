@@ -30,16 +30,16 @@ A simple, user-friendly To-Do List application built with React. This applicatio
 
 # Installation
 1. Clone the repository:
-    git clone https://github.com/Charu-30/ToDo-List-App.git
+    * git clone https://github.com/Charu-30/ToDo-List-App.git
 
 2. Navigate to the project directory:
-    cd To-Do-List
+    * cd To-Do-List
 
 3. Install dependencies:
-    npm install
+    * npm install
 
 4. Start the development server:
-    npm run dev
+    * npm run dev
 
 5. Open the application in your browser.
 
@@ -55,6 +55,9 @@ A simple, user-friendly To-Do List application built with React. This applicatio
 
 4. **Delete a Task:**
    * Click the delete icon to remove a task.
+
+# Screenshots
+    ![image](https://github.com/user-attachments/assets/5bdc12ce-1b91-4b3e-a4d5-9f2f43546fcf)
 
 # Contributing
 Feel free to fork this repository, make changes, and submit a pull request. Suggestions and improvements are welcome!
