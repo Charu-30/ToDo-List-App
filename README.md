@@ -33,7 +33,7 @@ A simple, user-friendly To-Do List application built with React. This applicatio
     * git clone https://github.com/Charu-30/ToDo-List-App.git
 
 2. Navigate to the project directory:
-    * cd To-Do-List
+    * cd vite-project
 
 3. Install dependencies:
     * npm install
@@ -57,7 +57,7 @@ A simple, user-friendly To-Do List application built with React. This applicatio
    * Click the delete icon to remove a task.
 
 # Screenshots
-    ![image](https://github.com/user-attachments/assets/5bdc12ce-1b91-4b3e-a4d5-9f2f43546fcf)
+    ![image](https://github.com/user-attachments/assets/fbf8baa1-4213-42b1-a038-417a775b6d00)
 
 # Contributing
 Feel free to fork this repository, make changes, and submit a pull request. Suggestions and improvements are welcome!
