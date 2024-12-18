@@ -57,7 +57,7 @@ A simple, user-friendly To-Do List application built with React. This applicatio
    * Click the delete icon to remove a task.
 
 # Screenshots
-    ![image](https://github.com/user-attachments/assets/fbf8baa1-4213-42b1-a038-417a775b6d00)
+    https://github.com/Charu-30/ToDo-List-App/blob/main/src/assets/Screenshot%202024-12-18%20181806.png?raw=true
 
 # Contributing
 Feel free to fork this repository, make changes, and submit a pull request. Suggestions and improvements are welcome!
